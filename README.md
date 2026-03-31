@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Monikamonikamoni
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Monika
+- 👀 I’m interested in Full Stack Development, Backend Enginnering and building scalable web applications.
+- 🌱 I’m currently looking for a job
+- 💞️ I’m looking to collaborate on Open source Java Projects or any web develoipment initiatives that involve SQL and Spring.
+- 📫 How to reach me mailid:monika22oct03@gmail.com
+- LinkedIn id: http://www.linkedin.com/in/monika-v-a47461288
 
-<!---
-Monikamonikamoni/Monikamonikamoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#Technical Skills:
+Databases : SQL
+Programming Languages: Java
+Frameworks: SpringBoot, Hibernate
+WEbTechnologies : HTML5, CSS3, JavaScript
